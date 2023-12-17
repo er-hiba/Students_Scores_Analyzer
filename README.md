@@ -25,7 +25,7 @@ This program allows you to perform statistical analysis on a set of student scor
 
 **Running the Program:**
 - Navigate to the project directory: ``cd src``
-- Execute the Python script: `python scores_analyzer.py`
+- Execute the Python script: `python main.py`
 - Input student scores, separated by spaces, in the provided text entry field.
 - Click "Submit" to trigger the analysis.
 - View statistical results and a graphical representation of the data.
