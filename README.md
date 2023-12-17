@@ -1,15 +1,6 @@
 ## Description
-<!-- This program is designed to perform statistical analysis on a set of student scores. It prompts the user to input the number of students and their respective scores. After collecting the data, the program performs the following calculations:
-- Sorting: It sorts the scores in ascending order.
-- Average (Mean): It calculates the average (mean) score for the students.
-- Median: It calculates the median score, which is the middle value in the sorted list. If there's an even number of scores, it takes the average of the two middle values.
-- Standard Deviation: It computes the standard deviation, a measure of the amount of variation or dispersion in the scores.
-- Minimum and Maximum: It finds the minimum and maximum scores in the dataset.
-- Range: It calculates the range, which is the difference between the maximum and minimum scores.
-- Scores Above Average: It creates a list of scores that are above the calculated average.  
+This is a Python application that provides a user-friendly interface using Tkinter. It enables users to input a series of student scores, conducts comprehensive statistical analysis (including mean, median, standard deviation, minimum, maximum, and range), and showcases the results both in textual and graphical formats. The program generates a plot illustrating the distribution of scores along with horizontal lines denoting various statistical measures for a quick overview of the dataset's characteristics.
 
-After performing these calculations, the program displays the sorted scores, the mean, median, standard deviation, minimum, maximum, range, and the list of scores above the average to provide a comprehensive overview of the student performance.-->
-This program allows you to perform statistical analysis on a set of student scores, providing valuable insights into their performance. It covers essential statistics, including sorting, mean, median, standard deviation, minimum, maximum, range, and scores above average.  
 ## Screenshots
 <img src="screenshot1.png">
 <img src="screenshot2.png">
