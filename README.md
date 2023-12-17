@@ -10,6 +10,9 @@
 
 After performing these calculations, the program displays the sorted scores, the mean, median, standard deviation, minimum, maximum, range, and the list of scores above the average to provide a comprehensive overview of the student performance.-->
 This program allows you to perform statistical analysis on a set of student scores, providing valuable insights into their performance. It covers essential statistics, including sorting, mean, median, standard deviation, minimum, maximum, range, and scores above average.  
+## Screenshots
+<img src="screenshot1.png">
+<img src="screenshot2.png">
 
 ## Usage
 **Prerequisites:**
@@ -22,12 +25,7 @@ This program allows you to perform statistical analysis on a set of student scor
 
 **Running the Program:**
 - Navigate to the project directory: ``cd src``
-- Execute the Python script: `python main.py`
+- Execute the Python script: `python scores_analyzer.py`
 - Input student scores, separated by spaces, in the provided text entry field.
-- Click "Calculate" to trigger the analysis.
+- Click "Submit" to trigger the analysis.
 - View statistical results and a graphical representation of the data.
-## Example
-**Statical results:**  
-<img src="stats_report.png" width="450">   
-**Graph:**  
-<img src="graph.png" width="450">
