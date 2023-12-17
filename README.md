@@ -11,7 +11,6 @@
 After performing these calculations, the program displays the sorted scores, the mean, median, standard deviation, minimum, maximum, range, and the list of scores above the average to provide a comprehensive overview of the student performance.-->
 This program allows you to perform statistical analysis on a set of student scores, providing valuable insights into their performance. It covers essential statistics, including sorting, mean, median, standard deviation, minimum, maximum, range, and scores above average.  
 
-Please note that the user interface may require further enhancements to make the program more user-friendly, including a larger entry field, an expanded text box for the statistical results, and improved graph positioning.
 ## Usage
 **Prerequisites:**
 - Ensure you have Python installed.  
